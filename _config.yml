@@ -2,6 +2,9 @@ collections:
   authors:
     output: true
 
+url: http://zakarydraper.github.io
+baseurl: ""
+
 plugins:
   - jekyll-sitemap
   - jekyll-feed
