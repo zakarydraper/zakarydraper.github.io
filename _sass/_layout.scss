@@ -1,0 +1,33 @@
+.wrapper {
+  width: 100%;
+  max-width: $wrapper-width;
+  margin: 0 auto;
+  padding: 1.5rem;
+  @media (min-width: $breakpoint) {
+    margin: 0;
+    max-width: $wrapper-width-lg;
+    display: flex;
+    flex-wrap: nowrap;
+  }
+}
+
+.sidebar,
+.content {
+  margin-bottom: 2rem;
+  @media (min-width: $breakpoint) {
+    padding: 1rem;
+    flex-grow: 1;
+  }
+}
+
+.sidebar {
+  @media (min-width: $breakpoint) {
+    flex-basis: $sidebar-width;
+  }
+}
+
+.content {
+  @media (min-width: $breakpoint) {
+    flex-basis: $content-width;
+  }
+}

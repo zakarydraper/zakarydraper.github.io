@@ -1,0 +1,15 @@
+$main-color: #36c899;
+$text-color: #333;
+
+$breakpoint: 768px;
+$wrapper-width: 600px;
+$wrapper-width-lg: 768px;
+$content-width: 600px;
+$sidebar-width: ($wrapper-width-lg - $content-width);
+
+$link-shadow: 0px -5px inset transparentize($main-color, 0.5);
+$link-shadow-hover: 0px -5px inset transparentize($main-color, 0);
+
+$serif-font: Calluna, serif;
+$main-font: $serif-font;
+$headings-font: inherit;

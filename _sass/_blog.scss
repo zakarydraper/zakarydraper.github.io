@@ -1,0 +1,26 @@
+.post-list {
+  list-style: none;
+  margin-top: 0;
+  margin-right: 0;
+  margin-left: 0;
+  padding: 0;
+}
+
+.post {
+  margin-bottom: 3rem;
+}
+
+.post-title {
+  margin-bottom: 0.5rem;
+  line-height: 1;
+  font-size: inherit;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  border-top: 1px solid $text-color;
+  padding-top: 0.5rem;
+  a {
+    &:not(:hover) {
+      box-shadow: none;
+    }
+  }
+}
