@@ -1,10 +1,8 @@
 ---
 title: About
 ---
-# About page
+# About
 
-This page tells you a little bit about me. Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+I am a Master of Arts in Psychological Science student researching quantitative methods at the University of British Columbia&mdashOkanagan (UBCO). As a quantitative researcher, my focus is on statistical techniques and the ways researchers draw conclusions from data. My current work focuses on methods for determining the number of latent variables to retain from a principal components analysis or principal axis factoring solution. I am investigating the use of supervised learning as a means of integrating multiple previously developed retention methods into a single retention method that can be applied to datasets with a variety of characteristics.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
-
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+I am passionate about the appropriate use of statistics to answer research questions. As such, I am happy to share the knowledge and skills that I have developed with my peers and other researchers. I regularly collaborate on research projects and offer advice on how to best collect and analyze data to draw conclusions.
