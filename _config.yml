@@ -3,6 +3,7 @@ collections:
     output: true
 
 url: http://zakarydraper.github.io
+version: "1.0.0"
 baseurl: ""
 
 plugins:
