@@ -4,6 +4,6 @@ Sequential analysis refers to the examination of the influence of an observation
 
 Functions for running these analyses in R are provided here. These R programs are based on programs written by Brian O'Connor for SPSS, SAS, and Fortran 77, which are available at his [website](https://people.ok.ubc.ca/brioconn/).
 
-For more information see:
+#### Reference
 
 O'Connor, B. P. (1999). Simple and flexible SAS and SPSS programs for analyzing lag-sequential categorical data. *Behavior Research Methods, Instrumentation, and Computers, 31,* 718–726.
