@@ -1,6 +1,6 @@
 ---
 ---
-LagSequential is the first and only tool for analyzing lag-sequential categorical data in R. Information about the package can be found in the package <a href ="/root/assets/documents/LagSequential.pdf" download>documentation</a>. LagSequential is available through [GitHub](https://github.com/bpoconnor/LagSequential) and can be installed directly in R using the remotes package by running the code below.
+LagSequential is the first and only tool for analyzing lag-sequential categorical data in R. Information about the package can be found in the package <a href ="/assets/documents/LagSequential.pdf" download>documentation</a>. LagSequential is available through [GitHub](https://github.com/bpoconnor/LagSequential) and can be installed directly in R using the remotes package by running the code below.
 
 ```
 source("https://install-github.me/r-lib/remotes")
@@ -10,7 +10,7 @@ library(LagSequential)
 
 I worked with Brian O'Connor to write this package based on his programs for conducting the same analyses in SPSS, SAS, and Fortran 77, which are available at his [website](https://people.ok.ubc.ca/brioconn/).
 
-For more information about sequential analysis, see the package <a href ="/root/assets/documents/LagSequential.pdf" download>documentation</a> or any of the references below.
+For more information about sequential analysis, see the package <a href ="/assets/documents/LagSequential.pdf" download>documentation</a> or any of the references below.
 
 ## References
 
