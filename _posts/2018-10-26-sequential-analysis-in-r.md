@@ -22,4 +22,4 @@ Wampold, B. E. (1984). Tests of dominance in sequential categorical data. *Psych
 
 Wampold, B. E., & Kim, K. (1989). Sequential analysis applied to counseling process and outcome: A case study revisited. *Journal of Counseling Psychology, 36,* 357. [https://doi.org/10.1037/0022-0167.36.3.357](https://doi.org/10.1037/0022-0167.36.3.357)
 
-Wampold, B. E., & Margolin, G. (1989). Nonparametric strategies to test the independence of behavioral states in sequential data. *Psychological Bulletin, 92,* 755. [https://doi.org/10.1037/0033-2909.92.3.755]([https://doi.org/10.1037/0033-2909.92.3.755])
+Wampold, B. E., & Margolin, G. (1989). Nonparametric strategies to test the independence of behavioral states in sequential data. *Psychological Bulletin, 92,* 755. [https://doi.org/10.1037/0033-2909.92.3.755](https://doi.org/10.1037/0033-2909.92.3.755)
