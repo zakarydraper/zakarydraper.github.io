@@ -7,8 +7,8 @@ $wrapper-width-lg: 768px;
 $content-width: 600px;
 $sidebar-width: ($wrapper-width-lg - $content-width);
 
-$link-shadow: inset 0px -5px transparentize($main-color, 0.5);
-$link-shadow-hover: inset 0px -5px transparentize($main-color, 0);
+$link-shadow: inset 0px -2px transparentize($main-color, 0.5);
+$link-shadow-hover: inset 0px -2px transparentize($main-color, 0);
 
 $serif-font: Calluna, serif;
 $main-font: $serif-font;
