@@ -12,4 +12,4 @@ $link-shadow-hover: inset 0px -2px transparentize($main-color, 0);
 
 $serif-font: Calluna, serif;
 $main-font: $serif-font;
-$headings-font: Le Havre Layrs W01 Primary;
+$headings-font: "Le Havre Layrs W01 Primary", $main-font;
