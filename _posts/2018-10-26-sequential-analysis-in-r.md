@@ -1,6 +1,6 @@
 ---
 ---
-LagSequential is an R package for analysing lag-sequential categorical data. Information about the package can be found in the package [documentation](https://cran.r-project.org/web/packages/LagSequential/LagSequential.pdf). LagSequential is available through the [CRAN](https://cran.r-project.org/web/packages/LagSequential/index.html) and can be installed by running the code below.
+LagSequential is an R package for analysing lag-sequential categorical data. Information about the package can be found in the package [documentation](https://cran.r-project.org/web/packages/LagSequential/LagSequential.pdf). LagSequential is available through the [CRAN](https://CRAN.R-project.org/package=LagSequential) and can be installed by running the code below.
 
 ```
 install.packages("LagSequential")
