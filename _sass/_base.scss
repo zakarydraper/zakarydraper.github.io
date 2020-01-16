@@ -36,6 +36,7 @@ a {
   color: $text-color;
   box-shadow: $link-shadow;
   text-decoration: none;
+  transition: box-shadow 0.25s ease;
   &:hover,
   &:focus {
     box-shadow: $link-shadow-hover;
