@@ -26,6 +26,8 @@ If this study sounds interesting to you, you can read the [published paper](http
 
 I feel pretty great about this study. I think we did a good job engaging in open science practices. The study was [preregistered](https://osf.io/jvr23). Although we did not share the data, the code and output are shared in the [supplemental document](https://zakarydraper.com/canine-contact-analyses-supplement.html). So the data can't be reused, but the results can be verified. You can't do the analyses on your own computer, but you can see what the results would be if you could. I haven't seen supplemental documents like these very much and I think they're pretty great. If sharing data is not an option, this has got to be the next best thing.
 
-## Reference
+## References
 
 Binfet, J. T., Green, F. L. L., Draper, Z. A. (2021). The importance of client–canine contact in canine-assisted interventions. *Anthrozoös*. [https://doi.org/10.1080/08927936.2021.1944558](https://doi.org/10.1080/08927936.2021.1944558).
+
+Photo by [Jamie Street](https://unsplash.com/@jamie452?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/dog?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
