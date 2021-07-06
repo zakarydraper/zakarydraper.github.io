@@ -1,5 +1,7 @@
 ---
 ---
+![A happy dog in nature](/assets/images/jamie-street-UtrE5DcgEyg-unsplash.jpg)
+
 At UBCO, we have a program ([B.A.R.K.](https://bark.ok.ubc.ca)) where students get to play with dogs while they also chat with the dog handler and other folks visiting the session. Many studies have shown that people feel better after they visit these sessions and studies of similar programs at other institutions have found the same. It seems clear that these interventions are helpful, but is the dog really important? Couldn't it be the association with dog handler and peer attendees driving the effects of these interventions?
 
 To answer this question, we split people into three groups:
@@ -26,4 +28,4 @@ I feel pretty great about this study. I think we did a good job engaging in open
 
 ## Reference
 
-Binfet, J. T., Green, F. L. L., Draper, Z. A. (2021). The importance of client–canine contact in canine-assisted interventions. *Anthrozoös*. https://doi.org/10.1080/08927936.2021.1944558.
+Binfet, J. T., Green, F. L. L., Draper, Z. A. (2021). The importance of client–canine contact in canine-assisted interventions. *Anthrozoös*. [https://doi.org/10.1080/08927936.2021.1944558](https://doi.org/10.1080/08927936.2021.1944558).
