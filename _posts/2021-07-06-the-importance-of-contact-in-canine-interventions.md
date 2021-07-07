@@ -1,4 +1,5 @@
 ---
+title: "The Importance of Contact in Canine Interventions"
 ---
 ![A happy dog in nature](/assets/images/jamie-street-UtrE5DcgEyg-unsplash.jpg)
 
@@ -12,15 +13,15 @@ To answer this question, we split people into three groups:
 
 ## Results
 
-Participants in all three groups reported feeling better (i.e., happier, less stressed) after the session. But there was a greater benefit when a dog was present, even if the participants had no physical contact with the dog. The greatest benefit was for the group that had sustained physical contact with the animal for the entire session. In short, playing with the dog was helpful.
+Participants in all three groups reported feeling better (e.g., happier, less stressed) after the session. But there was a greater benefit when a dog was present, even if the participants had no physical contact with the dog. The greatest benefit was for the group that had sustained physical contact with the animal for the entire session. In short, playing with the dog was helpful.
 
 So, why is playing with the dog helpful? There are two possible explanations. One is that the participants felt better because they felt connected to the dog. This is consistent with the biophilia hypothesis, which proposes that people have an affinity for all nature and other life. Another possibility is that people felt better because contact with the dog helped them connect with their peers during the session, and that peer-to-peer connection caused the boost in immediate wellbeing.
 
-Because none of the conditions had a dog but no people, we can't disentangle these two explanations. But I think that there is probably a bit of both. I know that I personally find it a lot easier to connect with a stranger when there is a dog involved. I also know that playing dogs makes me feel good, even when no one else is around.
+Because none of the conditions had a dog but no people, we can't disentangle these two explanations. But I think that there is probably a bit of both. I know that I personally find it a lot easier to connect with a stranger when there is a dog involved. I also know that playing with dogs makes me feel good, even when no one else is around.
 
 ## Learn More
 
-If this study sounds interesting to you, you can read the [published paper](https://doi.org/10.1080/08927936.2021.1944558). I've also authored a [supplemental document](https://zakarydraper.com/canine-contact-analyses-supplement.html) that describes all the analyses we conducted (including some that were not reported in the full paper), including R code and output.
+If this study sounds interesting to you, you can read the [published paper](https://doi.org/10.1080/08927936.2021.1944558). I've also authored a [supplemental document](/canine-contact-analyses-supplement.html) that describes all the analyses we conducted (including some that were not reported in the full paper), including R code and output.
 
 ## Personal Reflections
 
