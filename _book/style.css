@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@400;700&family=Fira+Mono:wght@400;700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,400;1,700&family=Source+Serif+Pro:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+.book .book-header, .book .book-summary {
+  font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif
+}
+
+.book.font-family-0 {
+  font-family: "Source Serif Pro", Georgia, serif;
+}
+
+.book.font-family-1 {
+  font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.book.font-family-0 h1, .book.font-family-0 h2, .book.font-family-0 h3, .book.font-family-0 h4, .book.font-family-0 h5, .book.font-family-0 h6 {
+  font-family: "Fira Sans";
+}
+
+.book.font-family-1 h1, .book.font-family-1 h2, .book.font-family-1 h3, .book.font-family-1 h4, .book.font-family-1 h5, .book.font-family-1 h6 {
+  font-family: "Fira Sans";
+}
+
+.book .book-body .page-wrapper .page-inner section.normal code, .book .book-body .page-wrapper .page-inner section.normal pre {
+  font-family: "Fira Mono", Consolas, "Liberation Mono", Menlo, Courier, monospace;
+}
+
+code span.co {
+  font-style: normal;
+}
+
+p.caption {
+  color: #777;
+  margin-top: 10px;
+}
+p code {
+  white-space: inherit;
+}
+pre {
+  word-break: normal;
+  word-wrap: normal;
+}
+pre code {
+  white-space: inherit;
+}
+
+.book .book-body .page-wrapper .page-inner {
+    max-width: 600px;
+    margin: 0 auto;
+    padding:20px 0 40px
+}
