@@ -72,3 +72,13 @@ chisq-learning-objectives
 chisq-study
 chisq-data
 chisq-assignment
+study-information-2
+description-2
+hypothesis-2
+design-plan-2
+study-design-2
+instruments-and-measures
+training-video
+comprehension-questions
+pleader-videos
+analytic-strategy-3
