@@ -1,0 +1,16 @@
+intro1
+learning-objectives
+prepare-for-the-lab
+install-r
+install-rstudio
+im-using-a-tablet-or-chromebook
+can-i-use-a-lab-computer
+lab-activity
+mathematical-operations
+object-assignment
+object-classes
+longer-vectors
+data-frames
+add-a-column-to-a-data-frame
+summary-statistics
+discussion-questions
