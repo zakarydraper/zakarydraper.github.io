@@ -14,3 +14,4 @@ data-frames
 add-a-column-to-a-data-frame
 summary-statistics
 discussion-questions
+resources

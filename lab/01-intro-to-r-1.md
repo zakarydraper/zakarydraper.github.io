@@ -167,3 +167,7 @@ Be prepared to answer the following questions. It is okay (even good!) to use R 
 1. What class is the object produced by executing: `c(happiness$shs_tot, happiness$group)`?
 1. What is the difference between `1` and `"1"` in R?
 1. Why does `Happiness$shs_tot + 2` return an error?
+
+## Resources
+
+[Slides](../assets/documents/01-intro-to-r-1-slides.pdf)
