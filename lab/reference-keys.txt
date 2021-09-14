@@ -15,3 +15,6 @@ add-a-column-to-a-data-frame
 summary-statistics
 discussion-questions
 resources
+intro2
+learning-objectives-1
+prepare-for-the-lab-1
