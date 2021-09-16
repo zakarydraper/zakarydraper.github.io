@@ -124,7 +124,7 @@
 
 \title{Statistics Labs for Psychology}
 \author{Zakary A. Draper}
-\date{2021-09-13}
+\date{2021-09-16}
 
 \begin{document}
 \maketitle
@@ -535,6 +535,83 @@ After completing this lab, you should be able to:
     \href{https://learningstatisticswithr.com/book/mechanics.html\#factors}{4.7 Factors}
   \end{itemize}
 \end{itemize}
+
+\hypertarget{lab-activity-1}{%
+\section{Lab Activity}\label{lab-activity-1}}
+
+Researchers at the Vancouver and Okanagan campuses of The University of British Columbia have conducted a survey of child sleep. The results of this survey are found in the file \href{../assets/documents/child-sleep-data.csv}{child-sleep-data.csv}. The table below provides names and descriptions for each variable in the data set.
+
+Name
+
+Description
+
+id
+
+A randomly generated participant ID, unique to each participant.
+
+age
+
+The age of the child in the study.
+
+campus
+
+The campus from which the participant was recruited (``Point Grey'' or ``Okanagan'').
+
+sleep\_location
+
+Where does the child sleep? 1 = co-sleeps with parent(s); 2 = sleeps in own room; 3 = shares a room but does not cosleep.
+
+sleep
+
+The parent's estimate of the average hours of sleep the child receives in a 24-hour period.
+
+Download \href{../assets/documents/child-sleep-data.csv}{child-sleep-data.csv} and then complete the following steps:
+
+\hypertarget{import-and-inspect-the-data}{%
+\subsection{Import and Inspect the Data}\label{import-and-inspect-the-data}}
+
+\begin{itemize}
+\tightlist
+\item
+  Import \href{../assets/documents/child-sleep-data.csv}{child-sleep-data.csv} into R; assign it a meaningful name.
+\item
+  Inspect the \texttt{data.frame} using \texttt{str()}, \texttt{head()}, and \texttt{View()}.
+\end{itemize}
+
+\hypertarget{convert-categorical-variables-to-factors}{%
+\subsection{Convert Categorical Variables to Factors}\label{convert-categorical-variables-to-factors}}
+
+\begin{itemize}
+\tightlist
+\item
+  Use \texttt{as.factor()} and \texttt{factor()} to convert any categorical variables to factors with the appropriate levels and labels.
+\end{itemize}
+
+\hypertarget{subsetting-and-logical-expressions}{%
+\subsection{Subsetting and Logical Expressions}\label{subsetting-and-logical-expressions}}
+
+Use \texttt{{[}{]}} to subset the data frame and find the answers to following questions/complete the tasks described below. You will also need to use \texttt{is.na()}, \texttt{max()}, \texttt{min()}, \texttt{mean()}, and logical expressions.
+
+\begin{itemize}
+\tightlist
+\item
+  What campus was the 48th participant recruited at?
+\item
+  Return the data for participants who are missing responses on the sleep variable.
+\item
+  What proportion of participants are missing data for the sleep variable?
+\item
+  On average, how many hours do the children in this sample sleep per day?
+\item
+  What is the average daily sleep of children in each of the three conditions?
+\item
+  What is the participant ID of the participant(s) who reported the most sleep? The least sleep?
+\end{itemize}
+
+\hypertarget{participant-information}{%
+\subsection{Participant Information}\label{participant-information}}
+
+Use \texttt{table()} to identify how many, and what proportion of participants belong to each level of the three categorical variables.
 
   \bibliography{book.bib,packages.bib}
 

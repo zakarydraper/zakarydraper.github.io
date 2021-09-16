@@ -18,3 +18,8 @@ resources
 intro2
 learning-objectives-1
 prepare-for-the-lab-1
+lab-activity-1
+import-and-inspect-the-data
+convert-categorical-variables-to-factors
+subsetting-and-logical-expressions
+participant-information

@@ -1,7 +1,7 @@
 --- 
 title: "Statistics Labs for Psychology"
 author: "Zakary A. Draper"
-date: "2021-09-13"
+date: "2021-09-16"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
