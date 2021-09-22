@@ -23,3 +23,13 @@ import-and-inspect-the-data
 convert-categorical-variables-to-factors
 subsetting-and-logical-expressions
 participant-information
+data-viz
+learning-objectives-2
+prepare-for-the-lab-2
+lab-activity-2
+setup
+plots
+plot-1-histograms
+plot-2-boxplot
+plot-3-scatter-plot
+plot-4-jitter-plot

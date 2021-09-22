@@ -124,7 +124,7 @@
 
 \title{Statistics Labs for Psychology}
 \author{Zakary A. Draper}
-\date{2021-09-16}
+\date{2021-09-22}
 
 \begin{document}
 \maketitle
@@ -612,6 +612,103 @@ Use \texttt{{[}{]}} to subset the data frame and find the answers to following q
 \subsection{Participant Information}\label{participant-information}}
 
 Use \texttt{table()} to identify how many, and what proportion of participants belong to each level of the three categorical variables.
+
+\hypertarget{data-viz}{%
+\chapter{Data Visualization}\label{data-viz}}
+
+\begin{figure}
+\centering
+\includegraphics{img/ggplot2_exploratory.png}
+\caption{ggplot2}
+\end{figure}
+
+\hypertarget{learning-objectives-2}{%
+\section{Learning Objectives}\label{learning-objectives-2}}
+
+After completing this lab, you should be able to:
+
+Install and load R packages.
+
+Understand why data visualization is a useful tool for science communication.
+
+Know and apply the APA guidelines for figures in APA manuscripts.
+
+Understand the basic ``grammar of graphics'' used by \texttt{ggplot2}.
+
+Apply the basic ``grammar of graphics'' to visualize data in R.
+
+\hypertarget{prepare-for-the-lab-2}{%
+\section{Prepare for the Lab}\label{prepare-for-the-lab-2}}
+
+Ensure that you are comfortable with the content in labs 1 and 2.
+
+\hypertarget{lab-activity-2}{%
+\section{Lab Activity}\label{lab-activity-2}}
+
+Use the \href{dta/anscombe_long.csv}{anscombe\_long.csv} data for this lab activity.
+
+\hypertarget{setup}{%
+\subsection{Setup}\label{setup}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  If you haven't already, install \texttt{ggplot2}.
+\item
+  Load \texttt{ggplot2}.
+\item
+  Import \href{dta/anscombe_long.csv}{anscombe\_long.csv} into R as a \texttt{data.frame} named \texttt{anscombe\_long}.
+\item
+  Convert \texttt{anscombe\_long\$dataset} to a factor with levels: 1 = ``I'', 2 = ``II'', 3 = ``III'', and 4 = ``IV''.
+\end{enumerate}
+
+\hypertarget{plots}{%
+\subsection{Plots}\label{plots}}
+
+Write a script to produce each of the following plots. All of them use the dataset ``anscombe\_long.csv''.
+
+\hypertarget{plot-1-histograms}{%
+\subsection{Plot 1: Histograms}\label{plot-1-histograms}}
+
+\includegraphics{03-data-viz_files/figure-latex/plot1-1.pdf}
+
+\hypertarget{plot-2-boxplot}{%
+\subsection{Plot 2: Boxplot}\label{plot-2-boxplot}}
+
+\includegraphics{03-data-viz_files/figure-latex/plot2-1.pdf}
+
+\hypertarget{plot-3-scatter-plot}{%
+\subsection{Plot 3: Scatter Plot}\label{plot-3-scatter-plot}}
+
+\includegraphics{03-data-viz_files/figure-latex/plot3-1.pdf}
+
+\hypertarget{plot-4-jitter-plot}{%
+\subsection{Plot 4: Jitter Plot}\label{plot-4-jitter-plot}}
+
+\includegraphics{03-data-viz_files/figure-latex/plot4-1.pdf}
+
+\hypertarget{tips-for-recreating-plot-4}{%
+\subsubsection*{Tips for Recreating Plot 4}\label{tips-for-recreating-plot-4}}
+\addcontentsline{toc}{subsubsection}{Tips for Recreating Plot 4}
+
+Identify the aesthetic mappings before you start.
+
+\begin{itemize}
+\tightlist
+\item
+  Which variable is mapped to x?
+\item
+  Which is mapped to y?
+\item
+  Are there any other aesthetic mappings?
+\end{itemize}
+
+Use \texttt{geom\_jitter()} to plot the points. \texttt{geom\_jitter()} is a variant of \texttt{geom\_point()} that adds a little\ldots{} jitter. It's useful when points would otherwise be overlapping. Note that the jitter is random, so your plot will not match this one exactly. The jitter can also affect the range of the scale axes.
+
+Set the width of \texttt{geom\_jitter()} to be equal to 0.25.
+
+This plot uses \texttt{theme\_minimal()}. You are free to use whatever theme you prefer.
 
   \bibliography{book.bib,packages.bib}
 
