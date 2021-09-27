@@ -1,6 +1,6 @@
 # Data Visualization {#data-viz}
 
-![ggplot2](img/ggplot2_exploratory.png)
+![ggplot2](assets/images/ggplot2_exploratory.png)
 
 ## Learning Objectives
 
@@ -20,20 +20,20 @@ Ensure that you are comfortable with the content in labs 1 and 2.
 
 ## Lab Activity
 
-Use the [anscombe_long.csv](dta/anscombe_long.csv) data for this lab activity.
+Use the [anscombe_long.csv](assets/data/anscombe_long.csv) data for this lab activity.
 
 ### Setup
 
 1. If you haven't already, install `ggplot2`.
 2. Load `ggplot2`.
-3. Import [anscombe_long.csv](dta/anscombe_long.csv) into R as a `data.frame` named `anscombe_long`.
+3. Import [anscombe_long.csv](assets/data/anscombe_long.csv) into R as a `data.frame` named `anscombe_long`.
 4. Convert `anscombe_long$dataset` to a factor with levels: 1 = "I", 2 = "II", 3 = "III", and 4 = "IV".
 
 
 
 ### Plots
 
-Write a script to produce each of the following plots. All of them use the dataset "anscombe_long.csv".
+Write a script to produce each of the following plots. All of them use the [anscombe_long.csv](assets/data/anscombe_long.csv) data.
 
 ### Plot 1: Histograms
 
@@ -64,3 +64,7 @@ Use `geom_jitter()` to plot the points. `geom_jitter()` is a variant of `geom_po
 Set the width of `geom_jitter()` to be equal to 0.25.
 
 This plot uses `theme_minimal()`. You are free to use whatever theme you prefer.
+
+## Resources
+
+[Data Visualization Slides](assets/slides/03-data-visualisation-slides.pdf)

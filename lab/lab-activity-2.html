@@ -24,7 +24,7 @@
 <meta name="author" content="Zakary A. Draper" />
 
 
-<meta name="date" content="2021-09-22" />
+<meta name="date" content="2021-09-27" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -32,7 +32,7 @@
   
   
 <link rel="prev" href="prepare-for-the-lab-2.html"/>
-
+<link rel="next" href="resources-1.html"/>
 <script src="libs/header-attrs-2.9/header-attrs.js"></script>
 <script src="libs/jquery-2.2.3/jquery.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
@@ -205,6 +205,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <li class="chapter" data-level="3.3.5" data-path="lab-activity-2.html"><a href="lab-activity-2.html#plot-3-scatter-plot"><i class="fa fa-check"></i><b>3.3.5</b> Plot 3: Scatter Plot</a></li>
 <li class="chapter" data-level="3.3.6" data-path="lab-activity-2.html"><a href="lab-activity-2.html#plot-4-jitter-plot"><i class="fa fa-check"></i><b>3.3.6</b> Plot 4: Jitter Plot</a></li>
 </ul></li>
+<li class="chapter" data-level="3.4" data-path="resources-1.html"><a href="resources-1.html"><i class="fa fa-check"></i><b>3.4</b> Resources</a></li>
 </ul></li>
 <li class="divider"></li>
 <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
@@ -228,19 +229,19 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
             <section class="normal" id="section-">
 <div id="lab-activity-2" class="section level2" number="3.3">
 <h2><span class="header-section-number">3.3</span> Lab Activity</h2>
-<p>Use the <a href="dta/anscombe_long.csv">anscombe_long.csv</a> data for this lab activity.</p>
+<p>Use the <a href="assets/data/anscombe_long.csv">anscombe_long.csv</a> data for this lab activity.</p>
 <div id="setup" class="section level3" number="3.3.1">
 <h3><span class="header-section-number">3.3.1</span> Setup</h3>
 <ol style="list-style-type: decimal">
 <li>If you haven’t already, install <code>ggplot2</code>.</li>
 <li>Load <code>ggplot2</code>.</li>
-<li>Import <a href="dta/anscombe_long.csv">anscombe_long.csv</a> into R as a <code>data.frame</code> named <code>anscombe_long</code>.</li>
+<li>Import <a href="assets/data/anscombe_long.csv">anscombe_long.csv</a> into R as a <code>data.frame</code> named <code>anscombe_long</code>.</li>
 <li>Convert <code>anscombe_long$dataset</code> to a factor with levels: 1 = “I,” 2 = “II,” 3 = “III,” and 4 = “IV.”</li>
 </ol>
 </div>
 <div id="plots" class="section level3" number="3.3.2">
 <h3><span class="header-section-number">3.3.2</span> Plots</h3>
-<p>Write a script to produce each of the following plots. All of them use the dataset “anscombe_long.csv.”</p>
+<p>Write a script to produce each of the following plots. All of them use the <a href="assets/data/anscombe_long.csv">anscombe_long.csv</a> data.</p>
 </div>
 <div id="plot-1-histograms" class="section level3" number="3.3.3">
 <h3><span class="header-section-number">3.3.3</span> Plot 1: Histograms</h3>
@@ -268,18 +269,16 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <p>Use <code>geom_jitter()</code> to plot the points. <code>geom_jitter()</code> is a variant of <code>geom_point()</code> that adds a little… jitter. It’s useful when points would otherwise be overlapping. Note that the jitter is random, so your plot will not match this one exactly. The jitter can also affect the range of the scale axes.</p>
 <p>Set the width of <code>geom_jitter()</code> to be equal to 0.25.</p>
 <p>This plot uses <code>theme_minimal()</code>. You are free to use whatever theme you prefer.</p>
-
 </div>
 </div>
 </div>
-<!-- </div> -->
             </section>
 
           </div>
         </div>
       </div>
-<a href="prepare-for-the-lab-2.html" class="navigation navigation-prev navigation-unique" aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
-
+<a href="prepare-for-the-lab-2.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="resources-1.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>

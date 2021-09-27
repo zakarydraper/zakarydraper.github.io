@@ -170,4 +170,4 @@ Be prepared to answer the following questions. It is okay (even good!) to use R 
 
 ## Resources
 
-[Slides](../assets/documents/01-intro-to-r-1-slides.pdf)
+[Slides](assets/slides/01-intro-to-r-1-slides.pdf)

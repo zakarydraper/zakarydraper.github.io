@@ -33,3 +33,4 @@ plot-1-histograms
 plot-2-boxplot
 plot-3-scatter-plot
 plot-4-jitter-plot
+resources-1

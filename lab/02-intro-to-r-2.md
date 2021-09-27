@@ -1,6 +1,6 @@
 # Introduction to R (Part 2) {#intro2}
 
-![We believe in you!](img/monster_support.jpg)
+![We believe in you!](assets/images/monster_support.jpg)
 
 ## Learning Objectives
 
@@ -21,7 +21,7 @@ After completing this lab, you should be able to:
 
 ## Lab Activity
 
-Researchers at the Vancouver and Okanagan campuses of The University of British Columbia have conducted a survey of child sleep. The results of this survey are found in the file [child-sleep-data.csv](../assets/documents/child-sleep-data.csv). The table below provides names and descriptions for each variable in the data set.
+Researchers at the Vancouver and Okanagan campuses of The University of British Columbia have conducted a survey of child sleep. The results of this survey are found in the file [child-sleep-data.csv](assets/data/child-sleep-data.csv). The table below provides names and descriptions for each variable in the data set.
 
 <table>
   <th align="left">Name</th>
@@ -48,11 +48,11 @@ Researchers at the Vancouver and Okanagan campuses of The University of British 
   </tr>
 </table>
 
-Download [child-sleep-data.csv](../assets/documents/child-sleep-data.csv) and then complete the following steps:
+Download [child-sleep-data.csv](assets/data/child-sleep-data.csv) and then complete the following steps:
 
 ### Import and Inspect the Data
 
-* Import [child-sleep-data.csv](../assets/documents/child-sleep-data.csv) into R; assign it a meaningful name.
+* Import [child-sleep-data.csv](assets/data/child-sleep-data.csv) into R; assign it a meaningful name.
 * Inspect the `data.frame` using `str()`, `head()`, and `View()`.
 
 ### Convert Categorical Variables to Factors

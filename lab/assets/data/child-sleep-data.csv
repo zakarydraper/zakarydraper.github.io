@@ -1,0 +1,666 @@
+"id","age","campus","sleep_location","sleep"
+6441,"Under 2","Point Grey",3,14
+4994,"Over 5","Okanagan",3,13
+8027,"2 to 5","Point Grey",2,13
+4305,"Over 5","Okanagan",3,13
+7572,"2 to 5","Okanagan",3,14
+4513,"Over 5","Point Grey",1,13
+6216,"Over 5","Point Grey",2,12
+5239,"Over 5","Point Grey",2,12
+6137,"Under 2","Okanagan",2,13
+6395,"2 to 5","Point Grey",3,13
+9509,"Over 5","Okanagan",3,12
+3245,"Under 2","Okanagan",2,13
+3429,"Over 5","Point Grey",2,13
+6418,"2 to 5","Point Grey",2,14
+8932,"Under 2","Okanagan",2,12
+3643,"Over 5","Point Grey",1,14
+3379,"2 to 5","Point Grey",3,11
+5907,"2 to 5","Okanagan",3,12
+1336,"Over 5","Point Grey",3,12
+5707,"2 to 5","Okanagan",2,12
+4008,"2 to 5","Okanagan",1,12
+4890,"Over 5","Okanagan",1,13
+3689,"2 to 5","Point Grey",2,13
+9299,"Over 5","Okanagan",2,13
+6809,"2 to 5","Okanagan",1,13
+9257,"Over 5","Point Grey",2,13
+2195,"2 to 5","Point Grey",1,12
+5572,"2 to 5","Okanagan",1,12
+7292,"Over 5","Point Grey",1,12
+8287,"Under 2","Okanagan",2,13
+9852,"2 to 5","Okanagan",3,13
+2888,"Under 2","Point Grey",1,12
+9002,"Over 5","Okanagan",3,13
+4645,"Over 5","Point Grey",3,14
+8402,"2 to 5","Point Grey",3,14
+6668,"Over 5","Okanagan",1,14
+5184,"Over 5","Okanagan",1,12
+3166,"Over 5","Okanagan",1,13
+7619,"Over 5","Point Grey",1,14
+6127,"2 to 5","Okanagan",1,14
+6742,"Under 2","Point Grey",1,12
+3080,"Under 2","Point Grey",1,14
+4721,"Under 2","Okanagan",2,14
+5469,"2 to 5","Point Grey",1,12
+8541,"2 to 5","Okanagan",1,12
+7186,"Under 2","Point Grey",1,15
+8416,"2 to 5","Okanagan",3,12
+7535,"Under 2","Point Grey",2,12
+6230,"Over 5","Okanagan",3,13
+4695,"Over 5","Okanagan",1,13
+4261,"Over 5","Okanagan",3,15
+2153,"2 to 5","Point Grey",1,15
+9256,"2 to 5","Point Grey",3,13
+6386,"Under 2","Point Grey",1,NA
+6457,"Under 2","Okanagan",1,14
+5234,"2 to 5","Okanagan",3,13
+6157,"Over 5","Okanagan",3,13
+8698,"2 to 5","Okanagan",2,13
+6588,"2 to 5","Point Grey",1,13
+4533,"Under 2","Point Grey",1,NA
+6309,"2 to 5","Okanagan",3,NA
+4615,"Over 5","Point Grey",1,13
+6227,"Over 5","Okanagan",3,14
+8478,"2 to 5","Point Grey",3,14
+1883,"2 to 5","Point Grey",2,13
+8193,"Under 2","Okanagan",3,12
+3922,"Over 5","Point Grey",2,13
+6337,"Over 5","Point Grey",1,13
+9184,"Over 5","Okanagan",2,13
+8067,"Under 2","Okanagan",2,13
+2505,"2 to 5","Point Grey",1,14
+2296,"Over 5","Point Grey",1,13
+5666,"2 to 5","Point Grey",1,13
+2775,"Over 5","Point Grey",2,13
+9539,"Over 5","Point Grey",1,14
+5040,"Over 5","Okanagan",3,13
+6932,"2 to 5","Okanagan",2,13
+1903,"Under 2","Point Grey",1,13
+4250,"Under 2","Okanagan",3,13
+5410,"Under 2","Point Grey",2,13
+9421,"Over 5","Okanagan",1,13
+8795,"Over 5","Okanagan",1,12
+9528,"Under 2","Okanagan",1,NA
+5433,"Over 5","Okanagan",2,12
+4041,"Under 2","Okanagan",3,13
+6497,"Under 2","Okanagan",1,14
+2176,"Over 5","Okanagan",3,13
+5937,"Over 5","Okanagan",3,12
+6553,"Over 5","Point Grey",1,12
+6278,"2 to 5","Point Grey",3,13
+1147,"Under 2","Point Grey",3,13
+9490,"2 to 5","Point Grey",3,13
+2526,"Under 2","Okanagan",3,12
+9105,"Over 5","Okanagan",3,13
+3154,"Under 2","Okanagan",2,14
+5282,"Over 5","Okanagan",3,13
+1720,"Under 2","Point Grey",2,13
+7630,"Under 2","Point Grey",3,13
+4590,"2 to 5","Okanagan",3,NA
+3477,"2 to 5","Okanagan",3,12
+7840,"Over 5","Point Grey",3,14
+9818,"Under 2","Okanagan",1,11
+2843,"2 to 5","Okanagan",2,12
+5613,"2 to 5","Okanagan",2,NA
+4958,"Under 2","Point Grey",2,14
+8225,"Under 2","Okanagan",1,NA
+4536,"2 to 5","Point Grey",3,13
+2304,"Under 2","Point Grey",2,12
+6826,"Over 5","Okanagan",3,14
+5791,"Under 2","Point Grey",1,15
+2825,"2 to 5","Point Grey",1,13
+5570,"Under 2","Point Grey",2,14
+6597,"Under 2","Okanagan",2,13
+8566,"Over 5","Okanagan",1,13
+5280,"2 to 5","Point Grey",1,12
+7338,"2 to 5","Okanagan",1,13
+9687,"2 to 5","Point Grey",3,14
+9065,"Under 2","Okanagan",1,13
+2539,"2 to 5","Okanagan",2,12
+9915,"2 to 5","Okanagan",3,13
+1633,"Over 5","Okanagan",2,12
+2562,"Over 5","Point Grey",3,14
+1628,"2 to 5","Point Grey",1,14
+5752,"2 to 5","Point Grey",1,11
+8776,"Over 5","Okanagan",2,13
+1155,"Over 5","Okanagan",1,12
+8771,"Under 2","Point Grey",3,14
+6209,"Under 2","Okanagan",2,13
+3272,"Under 2","Point Grey",2,13
+1570,"Under 2","Okanagan",1,14
+1002,"Under 2","Okanagan",1,13
+7303,"Under 2","Point Grey",1,13
+9667,"Under 2","Point Grey",3,13
+7437,"2 to 5","Okanagan",2,13
+9464,"2 to 5","Okanagan",2,15
+3364,"Under 2","Point Grey",2,12
+2883,"Under 2","Okanagan",3,11
+1985,"2 to 5","Okanagan",3,11
+6735,"2 to 5","Point Grey",1,11
+6800,"Over 5","Okanagan",1,11
+8731,"Under 2","Point Grey",3,13
+4325,"Under 2","Point Grey",3,11
+9215,"Under 2","Point Grey",2,14
+6517,"Under 2","Point Grey",2,13
+2977,"Over 5","Point Grey",1,14
+1117,"Over 5","Point Grey",1,15
+3844,"Under 2","Okanagan",1,12
+4940,"2 to 5","Okanagan",2,12
+1879,"Under 2","Point Grey",1,14
+3633,"Over 5","Okanagan",3,13
+8035,"Over 5","Okanagan",3,12
+3937,"2 to 5","Point Grey",1,14
+5654,"Over 5","Point Grey",3,14
+9295,"Over 5","Okanagan",3,14
+6454,"2 to 5","Okanagan",2,10
+8839,"Over 5","Point Grey",3,13
+2765,"Under 2","Point Grey",3,13
+6061,"Over 5","Point Grey",3,13
+5735,"2 to 5","Point Grey",3,13
+9918,"Over 5","Point Grey",3,13
+5742,"Over 5","Okanagan",3,14
+7279,"Under 2","Okanagan",2,15
+5795,"Under 2","Point Grey",3,11
+5454,"Over 5","Point Grey",1,14
+1935,"Under 2","Point Grey",1,13
+7079,"2 to 5","Okanagan",2,13
+8281,"Under 2","Point Grey",1,13
+5443,"2 to 5","Okanagan",2,14
+4278,"Under 2","Point Grey",3,15
+2328,"2 to 5","Point Grey",1,13
+3992,"Under 2","Point Grey",3,12
+5920,"Over 5","Point Grey",1,13
+9054,"Under 2","Point Grey",1,13
+8250,"Under 2","Okanagan",3,14
+1131,"Over 5","Okanagan",2,14
+1587,"2 to 5","Okanagan",3,13
+2986,"Over 5","Point Grey",1,12
+3053,"2 to 5","Point Grey",2,13
+9591,"Over 5","Okanagan",3,14
+1607,"Under 2","Okanagan",2,13
+8719,"Under 2","Point Grey",2,14
+5145,"Under 2","Point Grey",1,13
+9429,"Over 5","Point Grey",1,NA
+1845,"Under 2","Point Grey",1,13
+9823,"Under 2","Okanagan",2,14
+6608,"Under 2","Okanagan",2,12
+8518,"Under 2","Point Grey",2,14
+2675,"Over 5","Point Grey",3,12
+3118,"2 to 5","Okanagan",1,13
+6021,"Under 2","Point Grey",3,13
+9801,"Under 2","Okanagan",3,NA
+9086,"Over 5","Point Grey",3,12
+7665,"Over 5","Point Grey",1,14
+8547,"Over 5","Okanagan",1,13
+8522,"Over 5","Point Grey",1,12
+5926,"Under 2","Point Grey",3,12
+1223,"Under 2","Point Grey",2,13
+7068,"Over 5","Okanagan",3,10
+1800,"Over 5","Point Grey",3,13
+5598,"2 to 5","Point Grey",2,13
+5526,"Over 5","Okanagan",3,11
+6039,"Under 2","Okanagan",3,13
+8898,"Under 2","Okanagan",3,13
+6003,"Over 5","Point Grey",1,14
+3227,"Under 2","Point Grey",3,12
+7447,"2 to 5","Point Grey",3,13
+7904,"2 to 5","Okanagan",3,13
+2746,"Over 5","Okanagan",3,13
+7065,"2 to 5","Point Grey",3,12
+5772,"2 to 5","Okanagan",3,13
+7458,"2 to 5","Point Grey",1,14
+5517,"Over 5","Okanagan",3,14
+6734,"Under 2","Point Grey",3,13
+2459,"2 to 5","Point Grey",3,13
+9638,"Under 2","Okanagan",1,14
+7146,"Over 5","Point Grey",3,13
+1580,"2 to 5","Okanagan",3,11
+2263,"Under 2","Point Grey",1,12
+5296,"Over 5","Point Grey",2,NA
+2286,"Over 5","Point Grey",3,13
+6925,"2 to 5","Point Grey",1,12
+8123,"Over 5","Point Grey",2,14
+2161,"2 to 5","Okanagan",1,13
+4380,"2 to 5","Okanagan",2,11
+1775,"2 to 5","Point Grey",1,12
+6721,"2 to 5","Okanagan",3,13
+6361,"Under 2","Point Grey",3,14
+8528,"2 to 5","Point Grey",1,13
+1804,"2 to 5","Point Grey",1,13
+4571,"Over 5","Okanagan",2,12
+4395,"2 to 5","Okanagan",3,13
+9211,"Over 5","Okanagan",2,14
+1891,"Under 2","Okanagan",3,15
+6251,"2 to 5","Point Grey",1,13
+3055,"2 to 5","Point Grey",2,14
+3557,"Over 5","Point Grey",2,13
+4960,"Under 2","Point Grey",2,12
+5278,"Under 2","Okanagan",3,14
+6458,"Under 2","Point Grey",2,13
+1149,"2 to 5","Point Grey",1,13
+1765,"Under 2","Point Grey",3,12
+5047,"2 to 5","Point Grey",3,13
+9118,"Under 2","Okanagan",1,13
+1492,"Under 2","Okanagan",1,14
+9363,"Under 2","Okanagan",3,13
+9836,"Over 5","Point Grey",3,13
+7192,"2 to 5","Okanagan",1,11
+8110,"2 to 5","Okanagan",2,13
+1932,"Under 2","Okanagan",3,NA
+4443,"Under 2","Point Grey",3,NA
+8382,"Under 2","Okanagan",3,13
+5808,"Under 2","Okanagan",3,15
+3403,"2 to 5","Point Grey",1,12
+6934,"Under 2","Okanagan",1,13
+8590,"Over 5","Point Grey",1,14
+1372,"Over 5","Point Grey",2,13
+5400,"Over 5","Okanagan",1,13
+7537,"Over 5","Okanagan",1,12
+4030,"Under 2","Point Grey",3,13
+4051,"Under 2","Point Grey",3,12
+1169,"Over 5","Okanagan",1,13
+7663,"2 to 5","Okanagan",1,13
+1199,"Under 2","Okanagan",2,13
+8778,"Under 2","Okanagan",3,13
+1062,"Over 5","Point Grey",1,12
+7846,"Over 5","Okanagan",1,13
+4634,"Under 2","Point Grey",2,12
+1280,"Under 2","Okanagan",3,13
+8139,"Over 5","Point Grey",2,14
+9068,"Under 2","Point Grey",1,14
+2402,"2 to 5","Okanagan",3,12
+8897,"Over 5","Point Grey",2,15
+7744,"Under 2","Okanagan",1,12
+5527,"Over 5","Okanagan",3,14
+7153,"Over 5","Okanagan",1,12
+3054,"Under 2","Okanagan",2,13
+2827,"Over 5","Okanagan",1,14
+5440,"Over 5","Point Grey",2,10
+3464,"Under 2","Okanagan",2,13
+5473,"Under 2","Point Grey",1,14
+1209,"Over 5","Point Grey",1,14
+6771,"Under 2","Okanagan",3,14
+2319,"2 to 5","Point Grey",1,13
+7682,"Under 2","Point Grey",2,13
+4751,"2 to 5","Okanagan",3,15
+8257,"2 to 5","Okanagan",1,13
+7627,"Over 5","Point Grey",2,14
+2311,"Under 2","Point Grey",2,12
+7023,"2 to 5","Point Grey",1,14
+3032,"Over 5","Okanagan",2,13
+5856,"2 to 5","Okanagan",2,13
+7369,"Under 2","Point Grey",2,14
+2464,"Over 5","Point Grey",2,13
+9148,"Under 2","Okanagan",3,13
+3422,"2 to 5","Point Grey",3,11
+6505,"2 to 5","Okanagan",2,12
+3173,"Over 5","Okanagan",2,13
+1967,"2 to 5","Okanagan",2,13
+4688,"Over 5","Point Grey",3,12
+5211,"2 to 5","Point Grey",2,13
+4346,"2 to 5","Okanagan",2,12
+9015,"2 to 5","Point Grey",2,13
+2925,"2 to 5","Point Grey",1,12
+9195,"Under 2","Okanagan",3,16
+2866,"2 to 5","Okanagan",1,11
+7147,"Over 5","Point Grey",2,13
+2806,"Over 5","Okanagan",2,12
+7086,"Under 2","Okanagan",1,15
+4752,"Under 2","Okanagan",1,NA
+2484,"2 to 5","Okanagan",3,13
+7187,"Over 5","Okanagan",1,14
+8411,"Under 2","Point Grey",1,NA
+8134,"Over 5","Point Grey",2,13
+7522,"Under 2","Point Grey",1,12
+7074,"Under 2","Point Grey",2,12
+6087,"Under 2","Okanagan",2,14
+6956,"2 to 5","Point Grey",3,13
+5461,"Under 2","Point Grey",1,13
+2086,"Under 2","Okanagan",2,12
+9250,"Over 5","Okanagan",1,13
+8713,"2 to 5","Okanagan",3,14
+8190,"Over 5","Point Grey",1,NA
+9305,"Under 2","Okanagan",2,14
+3031,"Over 5","Point Grey",3,12
+5394,"Over 5","Point Grey",3,13
+3018,"Over 5","Point Grey",1,13
+3597,"Under 2","Point Grey",2,13
+1420,"Over 5","Point Grey",1,13
+6172,"2 to 5","Point Grey",1,14
+8621,"Over 5","Point Grey",3,14
+6897,"Under 2","Okanagan",3,15
+9571,"2 to 5","Okanagan",2,14
+8870,"2 to 5","Point Grey",1,14
+7244,"Under 2","Okanagan",2,14
+7561,"Under 2","Point Grey",3,12
+3463,"2 to 5","Point Grey",1,13
+5587,"Over 5","Point Grey",1,12
+8911,"2 to 5","Point Grey",1,11
+6313,"Under 2","Okanagan",1,13
+6592,"2 to 5","Point Grey",3,13
+8550,"2 to 5","Point Grey",1,14
+7473,"Under 2","Point Grey",2,14
+4044,"Over 5","Point Grey",2,14
+8762,"2 to 5","Point Grey",3,14
+8573,"Over 5","Point Grey",1,13
+7283,"2 to 5","Point Grey",3,15
+2401,"Under 2","Point Grey",1,13
+1075,"2 to 5","Point Grey",1,12
+9241,"Under 2","Point Grey",1,11
+5586,"2 to 5","Point Grey",2,13
+3897,"2 to 5","Okanagan",2,NA
+9083,"2 to 5","Okanagan",1,14
+8985,"Under 2","Point Grey",2,13
+7755,"Under 2","Okanagan",3,12
+7446,"2 to 5","Point Grey",3,13
+1399,"Over 5","Point Grey",3,15
+1244,"Over 5","Okanagan",2,15
+5345,"Under 2","Point Grey",1,11
+4485,"2 to 5","Okanagan",2,12
+6620,"Over 5","Okanagan",3,12
+6907,"Over 5","Point Grey",3,13
+5788,"2 to 5","Point Grey",2,13
+8167,"Over 5","Point Grey",1,13
+8603,"2 to 5","Point Grey",3,14
+3596,"2 to 5","Okanagan",3,13
+4119,"Under 2","Okanagan",2,14
+7060,"Under 2","Okanagan",3,12
+9524,"Under 2","Okanagan",1,12
+6775,"Under 2","Point Grey",1,12
+8197,"Under 2","Okanagan",2,13
+5730,"Over 5","Okanagan",3,12
+8759,"2 to 5","Point Grey",2,13
+6364,"2 to 5","Okanagan",2,13
+2633,"Under 2","Point Grey",3,12
+1827,"2 to 5","Okanagan",1,11
+2318,"Over 5","Okanagan",2,14
+2587,"2 to 5","Okanagan",1,13
+8177,"Under 2","Point Grey",3,14
+4933,"Over 5","Okanagan",2,13
+7797,"2 to 5","Point Grey",1,14
+3311,"Under 2","Point Grey",1,NA
+3619,"2 to 5","Point Grey",3,NA
+1059,"Over 5","Okanagan",1,14
+8218,"2 to 5","Okanagan",2,13
+1670,"Under 2","Okanagan",2,13
+5168,"Under 2","Okanagan",3,13
+5520,"2 to 5","Point Grey",1,14
+6872,"Under 2","Okanagan",3,13
+7960,"Over 5","Point Grey",3,NA
+1618,"Over 5","Point Grey",2,13
+3488,"2 to 5","Point Grey",1,12
+8671,"Under 2","Okanagan",2,13
+5494,"Under 2","Okanagan",3,12
+6531,"Over 5","Okanagan",1,13
+8751,"Under 2","Okanagan",2,14
+7699,"Under 2","Okanagan",3,13
+5336,"2 to 5","Point Grey",1,11
+2067,"Under 2","Okanagan",2,13
+2189,"2 to 5","Okanagan",2,13
+2174,"Under 2","Point Grey",3,14
+9634,"Under 2","Okanagan",3,11
+3544,"2 to 5","Point Grey",2,13
+2720,"Under 2","Point Grey",3,13
+4932,"2 to 5","Point Grey",3,13
+1893,"Over 5","Point Grey",2,11
+4198,"Over 5","Point Grey",2,13
+5794,"Under 2","Point Grey",2,13
+4929,"2 to 5","Okanagan",1,14
+5485,"Under 2","Okanagan",1,14
+1250,"2 to 5","Point Grey",2,14
+5759,"Over 5","Okanagan",1,15
+3395,"2 to 5","Point Grey",2,13
+8082,"Under 2","Okanagan",3,13
+4369,"Over 5","Okanagan",1,14
+9510,"Over 5","Point Grey",1,12
+7506,"Over 5","Point Grey",1,13
+1655,"Under 2","Okanagan",1,11
+2461,"Under 2","Okanagan",1,13
+3850,"2 to 5","Point Grey",3,13
+6906,"Under 2","Point Grey",3,15
+1526,"Under 2","Okanagan",2,14
+9389,"Over 5","Point Grey",3,14
+9081,"Under 2","Point Grey",2,13
+8532,"2 to 5","Point Grey",3,12
+1947,"2 to 5","Okanagan",3,12
+6564,"2 to 5","Point Grey",3,13
+5377,"Under 2","Point Grey",2,14
+7364,"Over 5","Okanagan",3,12
+6437,"2 to 5","Point Grey",3,13
+6687,"Under 2","Okanagan",2,15
+5060,"2 to 5","Okanagan",1,14
+8300,"Over 5","Okanagan",1,13
+5746,"2 to 5","Point Grey",1,14
+1206,"Over 5","Point Grey",2,12
+1631,"Under 2","Point Grey",2,14
+6526,"Over 5","Okanagan",3,13
+2845,"Over 5","Okanagan",3,12
+1484,"Under 2","Okanagan",2,15
+6374,"Under 2","Okanagan",1,12
+5449,"Over 5","Point Grey",2,13
+6716,"Over 5","Okanagan",2,15
+9789,"Under 2","Okanagan",3,12
+1308,"Under 2","Okanagan",1,13
+5279,"Over 5","Okanagan",3,13
+9078,"2 to 5","Okanagan",1,NA
+1705,"Over 5","Okanagan",2,13
+3445,"2 to 5","Point Grey",1,15
+3539,"2 to 5","Okanagan",1,13
+3860,"Under 2","Okanagan",3,12
+8350,"Under 2","Okanagan",3,14
+6012,"Under 2","Okanagan",1,14
+1302,"2 to 5","Okanagan",2,13
+2944,"Under 2","Point Grey",1,13
+9379,"Under 2","Point Grey",2,11
+9438,"2 to 5","Point Grey",3,12
+8513,"2 to 5","Okanagan",3,14
+4993,"Over 5","Point Grey",1,13
+9224,"Under 2","Point Grey",1,12
+1121,"Over 5","Okanagan",1,14
+7373,"Under 2","Point Grey",3,14
+9671,"Under 2","Okanagan",1,13
+8765,"Over 5","Okanagan",3,14
+9840,"2 to 5","Point Grey",1,12
+7044,"Under 2","Point Grey",2,13
+1478,"Under 2","Okanagan",2,16
+3713,"Over 5","Point Grey",3,12
+6421,"Over 5","Okanagan",2,14
+8415,"2 to 5","Point Grey",3,14
+9698,"Under 2","Point Grey",3,11
+3743,"2 to 5","Okanagan",2,14
+3852,"Over 5","Point Grey",1,11
+4246,"Over 5","Okanagan",2,12
+8857,"2 to 5","Okanagan",1,NA
+3538,"2 to 5","Point Grey",3,12
+7909,"Over 5","Okanagan",1,13
+5164,"Under 2","Point Grey",1,11
+8034,"2 to 5","Point Grey",1,12
+1182,"Over 5","Okanagan",3,13
+1048,"2 to 5","Point Grey",1,13
+4782,"Over 5","Okanagan",1,14
+7828,"Over 5","Okanagan",2,15
+8797,"2 to 5","Point Grey",1,12
+7385,"2 to 5","Point Grey",2,12
+4142,"Under 2","Point Grey",2,14
+1012,"Under 2","Okanagan",2,13
+3630,"2 to 5","Point Grey",1,14
+4091,"Over 5","Okanagan",2,13
+5041,"2 to 5","Okanagan",2,13
+5698,"Under 2","Point Grey",2,12
+6622,"Over 5","Point Grey",2,15
+9547,"Over 5","Point Grey",1,12
+7394,"Under 2","Okanagan",2,NA
+4522,"Under 2","Point Grey",1,14
+8531,"Over 5","Okanagan",1,14
+1126,"Over 5","Point Grey",1,13
+5113,"2 to 5","Point Grey",2,14
+1310,"Over 5","Okanagan",3,13
+2085,"Over 5","Okanagan",3,13
+8227,"Under 2","Point Grey",3,14
+8654,"Under 2","Okanagan",1,13
+2638,"Over 5","Okanagan",3,15
+1651,"2 to 5","Point Grey",2,11
+1931,"Under 2","Okanagan",1,13
+2992,"Under 2","Point Grey",3,13
+1757,"Under 2","Point Grey",1,13
+4602,"2 to 5","Okanagan",1,15
+5290,"Under 2","Point Grey",3,13
+7300,"2 to 5","Point Grey",3,13
+8587,"2 to 5","Okanagan",3,11
+9446,"Under 2","Point Grey",3,12
+2899,"Under 2","Okanagan",3,14
+8517,"2 to 5","Okanagan",3,12
+5312,"2 to 5","Okanagan",2,13
+5584,"2 to 5","Okanagan",3,13
+4219,"2 to 5","Point Grey",1,14
+5039,"2 to 5","Okanagan",1,15
+3160,"Under 2","Okanagan",1,13
+3126,"Over 5","Okanagan",1,12
+1303,"2 to 5","Okanagan",1,13
+1836,"2 to 5","Okanagan",2,12
+6339,"2 to 5","Okanagan",3,13
+4761,"Over 5","Point Grey",2,14
+8670,"2 to 5","Okanagan",1,12
+8649,"Under 2","Okanagan",2,14
+4463,"2 to 5","Point Grey",1,13
+6748,"Over 5","Okanagan",1,13
+8834,"2 to 5","Point Grey",1,13
+6117,"Under 2","Okanagan",2,12
+4773,"Over 5","Point Grey",2,11
+4878,"2 to 5","Okanagan",1,12
+4819,"Under 2","Point Grey",3,12
+8495,"2 to 5","Point Grey",2,15
+4134,"Under 2","Okanagan",2,13
+8476,"Under 2","Point Grey",2,13
+5381,"2 to 5","Okanagan",1,12
+9666,"2 to 5","Point Grey",2,14
+9739,"Under 2","Okanagan",2,15
+9749,"Over 5","Point Grey",1,13
+1889,"Under 2","Point Grey",1,11
+4127,"Under 2","Point Grey",2,11
+4283,"Under 2","Point Grey",2,13
+8535,"Over 5","Okanagan",3,13
+7106,"Under 2","Okanagan",2,13
+1728,"Over 5","Point Grey",3,14
+3222,"Under 2","Point Grey",3,13
+2383,"Under 2","Point Grey",3,12
+6046,"Over 5","Okanagan",1,13
+7527,"Over 5","Okanagan",3,12
+2198,"2 to 5","Point Grey",3,14
+6316,"Under 2","Okanagan",2,NA
+3483,"2 to 5","Okanagan",1,13
+4378,"Over 5","Okanagan",2,14
+5095,"Over 5","Okanagan",1,12
+9799,"Under 2","Okanagan",1,14
+6153,"Over 5","Okanagan",1,13
+6401,"Under 2","Okanagan",2,13
+9595,"2 to 5","Point Grey",3,13
+9084,"Over 5","Okanagan",2,13
+7905,"Over 5","Okanagan",3,13
+9300,"2 to 5","Okanagan",2,13
+8263,"Over 5","Point Grey",1,NA
+8158,"Under 2","Point Grey",3,13
+4503,"Under 2","Point Grey",2,13
+9721,"Under 2","Okanagan",1,15
+8344,"Under 2","Point Grey",2,12
+7649,"2 to 5","Okanagan",2,NA
+9865,"Under 2","Point Grey",2,11
+1528,"2 to 5","Point Grey",2,12
+4440,"2 to 5","Point Grey",3,11
+7048,"Under 2","Okanagan",1,12
+6098,"Over 5","Okanagan",1,12
+4912,"2 to 5","Point Grey",2,13
+3142,"2 to 5","Okanagan",3,15
+3373,"2 to 5","Okanagan",1,14
+5115,"Under 2","Okanagan",2,13
+6520,"2 to 5","Okanagan",1,14
+4763,"Under 2","Okanagan",1,14
+7220,"Over 5","Okanagan",2,14
+9274,"2 to 5","Okanagan",1,NA
+6024,"2 to 5","Point Grey",3,15
+1447,"2 to 5","Point Grey",2,13
+2447,"Over 5","Okanagan",2,12
+2007,"Under 2","Point Grey",1,14
+2270,"Under 2","Point Grey",2,13
+2154,"Over 5","Point Grey",3,NA
+9520,"Over 5","Okanagan",2,15
+2469,"Under 2","Okanagan",3,14
+2896,"2 to 5","Point Grey",3,14
+3862,"2 to 5","Okanagan",1,12
+7760,"Over 5","Okanagan",3,12
+6614,"Over 5","Point Grey",2,14
+9508,"2 to 5","Okanagan",2,13
+9393,"2 to 5","Point Grey",1,NA
+5537,"Under 2","Okanagan",3,13
+9140,"2 to 5","Okanagan",3,NA
+9841,"Over 5","Point Grey",3,12
+3868,"Under 2","Okanagan",3,13
+4851,"Over 5","Point Grey",1,15
+1588,"2 to 5","Okanagan",3,12
+9581,"Under 2","Point Grey",1,12
+9147,"Over 5","Point Grey",2,14
+9737,"Over 5","Point Grey",3,14
+8473,"2 to 5","Okanagan",2,12
+4582,"2 to 5","Okanagan",2,14
+6067,"Under 2","Point Grey",1,13
+6372,"Over 5","Okanagan",3,14
+3608,"Under 2","Okanagan",2,12
+7271,"Under 2","Okanagan",2,14
+5513,"Under 2","Okanagan",2,13
+9891,"Under 2","Point Grey",2,14
+6086,"Under 2","Point Grey",1,14
+6370,"2 to 5","Okanagan",2,13
+4118,"Over 5","Point Grey",2,14
+9112,"2 to 5","Okanagan",3,14
+2204,"Under 2","Okanagan",2,12
+1927,"2 to 5","Point Grey",2,13
+4155,"Over 5","Point Grey",3,13
+1396,"Under 2","Okanagan",1,15
+4651,"Under 2","Point Grey",3,14
+9155,"Over 5","Point Grey",2,15
+6491,"Over 5","Point Grey",3,13
+2018,"2 to 5","Okanagan",2,14
+4140,"2 to 5","Okanagan",3,13
+3108,"2 to 5","Okanagan",1,10
+7580,"Over 5","Okanagan",3,14
+8888,"2 to 5","Okanagan",1,12
+8984,"Over 5","Point Grey",1,13
+6449,"2 to 5","Okanagan",3,13
+4832,"Over 5","Point Grey",3,14
+2528,"Over 5","Point Grey",1,14
+6080,"Over 5","Point Grey",1,13
+6941,"2 to 5","Point Grey",1,13
+9488,"2 to 5","Okanagan",2,NA
+4930,"2 to 5","Point Grey",2,14
+6626,"Under 2","Okanagan",3,NA
+1017,"Over 5","Okanagan",3,14
+7486,"Over 5","Okanagan",1,12
+4179,"2 to 5","Okanagan",1,14
+3518,"Over 5","Point Grey",3,11
+8678,"Under 2","Point Grey",1,13
+5201,"2 to 5","Okanagan",2,12
+9993,"Over 5","Okanagan",1,12
+5088,"Over 5","Okanagan",3,13
+9817,"Over 5","Point Grey",2,13
+5219,"Over 5","Point Grey",2,13
+9356,"Over 5","Okanagan",2,11
+6507,"Over 5","Okanagan",2,13
+2800,"Under 2","Point Grey",1,NA
+8394,"Over 5","Okanagan",1,14
+6976,"2 to 5","Point Grey",3,NA
+8494,"2 to 5","Point Grey",2,13
+6419,"Under 2","Point Grey",2,13
+7628,"2 to 5","Point Grey",1,13
+2073,"2 to 5","Point Grey",1,13
+1712,"2 to 5","Okanagan",1,12
+6440,"Under 2","Okanagan",3,13
+9294,"Under 2","Point Grey",1,13
+6119,"Over 5","Point Grey",2,13
+4136,"Under 2","Okanagan",1,15
+4843,"2 to 5","Okanagan",3,14
+2114,"Under 2","Point Grey",2,13
+6574,"Over 5","Okanagan",2,13
+4167,"Over 5","Point Grey",3,13
+3224,"Under 2","Point Grey",1,14
+7430,"Under 2","Okanagan",3,13
