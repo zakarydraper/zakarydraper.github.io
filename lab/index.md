@@ -59,33 +59,33 @@ Office hours with the lab instructors will be held via Zoom.
 
 We will use Canvas to share information and documents, including data sets, slides, and other useful materials.
 
-<!-- ## Learning Materials -->
+## Learning Materials {-}
 
-<!-- Consistent with learning outcome number 4, you are expected to take responsibility for your own learning. This includes completing all assigned activities (such as readings and assignments). It also includes ensuring that you have a sufficient understanding of the concepts taught in the lab, which may require that you do work beyond what has been explicitly assigned. There are abundant resources for learning R and statistics that are freely available online. Below is a sampling of resources you might turn to during your R journey. -->
+Consistent with learning outcome number 4, you are expected to take responsibility for your own learning. This includes completing all assigned activities (such as readings and assignments). It also includes ensuring that you have a sufficient understanding of the concepts taught in the lab, which may require that you do work beyond what has been explicitly assigned. There are abundant resources for learning R and statistics that are freely available online. Below is a sampling of resources you might turn to during your R journey.
 
-<!-- ### [Lab Manual](https://zakarydraper.com/book) -->
+### [Lab Manual](https://zakarydraper.com/book) {-}
 
-<!-- Beginning with lab 4, the lab manual contains all the information for completing the lab assignments/reports. -->
+The lab manual contains all the information for completing the lab assignments/reports.
 
-<!-- ### [Learning Statistics with R](https://learningstatisticswithr.com/) -->
+### [Learning Statistics with R](https://learningstatisticswithr.com/) {-}
 
-<!-- Learning Statistics with R by Danielle Navarro is a freely available introductory R and statistics textbook. There is a PDF version as well as a web version. This is a great resource written by an accomplished statistician/researcher/programmer. She draws heavily on functions from an R package she wrote for the course. We will not be teaching these functions in the lab. Use this text mainly for understanding the statistical concepts rather than the code. -->
+Learning Statistics with R by Danielle Navarro is a freely available introductory R and statistics textbook. There is a PDF version as well as a web version. This is a great resource written by an accomplished statistician/researcher/programmer. She draws heavily on functions from an R package she wrote for the course. We will not be teaching these functions in the lab, so we generally recommend you use this text mainly for understanding the statistical concepts rather than the code. However, if you find her code helpful and it gets the right answers, then that's great.
 
-<!-- ### [YaRrr! The Pirate's Guide to R](https://bookdown.org/ndphillips/YaRrr/) -->
+### [YaRrr! The Pirate's Guide to R](https://bookdown.org/ndphillips/YaRrr/) {-}
 
-<!-- YaRrr! The Pirate’s Guide to R is a fun and accessible book that introduces many important R concepts. The author has also created an accompanying video series available on YouTube. -->
+YaRrr! The Pirate’s Guide to R is a fun and accessible book that introduces many important R concepts. The author has also created an accompanying video series available on YouTube.
 
-<!-- ### [A Practical Extension of Statistics in Psychology Using R](https://rpsystats.com/) -->
+### [A Practical Extension of Statistics in Psychology Using R](https://rpsystats.com/) {-}
 
-<!-- In the words of the authors: -->
+In the words of the authors:
 
-<!-- > This book aims to provide a practical extension of introductory statistics typically taught in psychology into the general linear model (GLM) using R. -->
+> This book aims to provide a practical extension of introductory statistics typically taught in psychology into the general linear model (GLM) using R.
 
-<!-- In other words, assuming that you already familiar with the statistical tests, this book will expand your understanding of those tests, by explaining them from the perspective of a unified framework. -->
+In other words, assuming that you already familiar with the statistical tests, this book will expand your understanding of those tests, by explaining them from the perspective of a unified framework.
 
-<!-- ### [R for Data Science](https://r4ds.had.co.nz/) -->
+### [R for Data Science](https://r4ds.had.co.nz/) {-}
 
-<!-- R for Data Science teaches data science in R with a strong focus on R packages that are part of the [Tidyverse](https://www.tidyverse.org/). We will be referring to this book when we learn about Data Visualization. The other chapters are not relevant to this course.  -->
+R for Data Science teaches data science in R with a strong focus on R packages that are part of the [Tidyverse](https://www.tidyverse.org/). We will be referring to this book when we learn about Data Visualization. The other chapters are not relevant to this course.
 
 <!-- ## A Typical Week -->
 
