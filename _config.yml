@@ -2,6 +2,9 @@ collections:
   authors:
     output: true
 
+title: Official website of Zakary Draper
+tagline: A website and blog showcasing psychology research
+description: Official website of Zakary Draper, Psychological Science PhD student and research at The University of British Columbia—Okanagan
 url: http://zakarydraper.github.io
 version: "1.0.0"
 baseurl: ""
